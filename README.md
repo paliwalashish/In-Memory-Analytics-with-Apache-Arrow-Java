@@ -95,7 +95,3 @@ This project requires Java 21+ and uses the following modern Java features:
 - Pattern matching
 - Record patterns
 - Enhanced switch expressions
-
-## License
-
-MIT License - See individual source files for details.
