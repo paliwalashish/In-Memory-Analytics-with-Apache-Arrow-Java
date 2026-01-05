@@ -159,11 +159,6 @@
                     <version>${maven.compiler.plugin.version}</version>
                     <configuration>
                         <release>21</release>
-<!--                        <compilerArgs>-->
-<!--&lt;!&ndash;                            <arg>&#45;&#45;add-exports</arg>&ndash;&gt;-->
-<!--&lt;!&ndash;                            <arg>java.base/java.nio=ALL-UNNAMED</arg>&ndash;&gt;-->
-<!--                            <arg>&#45;&#45;add-exports=java.base/jdk.internal.misc=ALL-UNNAMED</arg>-->
-<!--                        </compilerArgs>-->
                     </configuration>
                 </plugin>
                 <plugin>
