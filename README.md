@@ -1,5 +1,7 @@
 # In-Memory Analytics with Apache Arrow - Java Examples
 
+**This repo is Work In Progress and everything may not work**
+
 Java examples for the book "In-Memory Analytics with Apache Arrow, Second Edition"
 
 ## Requirements
